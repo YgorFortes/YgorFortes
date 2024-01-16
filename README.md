@@ -1,7 +1,7 @@
 ## Olá, Ygor Fortes!
 
 
-Sou desenvolvedor Backend especializado em Node.js. Possuo amplo conhecimento em Express e experiência com bancos de dados relacionais, incluindo MySQL e PostgreSQL, assim como não relacionais, como MongoDB. Além disso, sou familiarizado com ORMs como Sequelize, Prisma e Mongoose. 
+Sou desenvolvedor Backend em Node.js. Possuo amplo conhecimento em Express e experiência com bancos de dados relacionais, incluindo MySQL e PostgreSQL, assim como não relacionais, como MongoDB. Além disso, sou familiarizado com ORMs como Sequelize, Prisma e Mongoose. 
 Atualmente, estudo TypeScript para fortalecer meus projetos, e testes com Jest para garantir a solidez do código.
 
 
