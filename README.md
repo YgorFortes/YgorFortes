@@ -10,7 +10,7 @@ Atualmente, estudo TypeScript para fortalecer meus projetos, e testes com Jest p
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YgorFortes&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-## Ferramentas
+## Linguagens e ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Ygor-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ygor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
